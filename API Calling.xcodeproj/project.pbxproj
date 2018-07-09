@@ -15,6 +15,7 @@
 		CCE1B36020F3891F004B78B1 /* API_CallingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE1B35F20F3891F004B78B1 /* API_CallingTests.swift */; };
 		CCE1B36B20F3891F004B78B1 /* API_CallingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE1B36A20F3891F004B78B1 /* API_CallingUITests.swift */; };
 		CCE1B37920F38AF4004B78B1 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE1B37820F38AF4004B78B1 /* SwiftyJSON.swift */; };
+		CCE1B37B20F394B5004B78B1 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE1B37A20F394B5004B78B1 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CCE1B36A20F3891F004B78B1 /* API_CallingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_CallingUITests.swift; sourceTree = "<group>"; };
 		CCE1B36C20F3891F004B78B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCE1B37820F38AF4004B78B1 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		CCE1B37A20F394B5004B78B1 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				CCE1B34A20F3891D004B78B1 /* AppDelegate.swift */,
 				CCE1B34C20F3891D004B78B1 /* SourcesViewController.swift */,
+				CCE1B37A20F394B5004B78B1 /* ArticlesViewController.swift */,
 				CCE1B34E20F3891D004B78B1 /* Main.storyboard */,
 				CCE1B35120F3891F004B78B1 /* Assets.xcassets */,
 				CCE1B35320F3891F004B78B1 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCE1B37920F38AF4004B78B1 /* SwiftyJSON.swift in Sources */,
+				CCE1B37B20F394B5004B78B1 /* ArticlesViewController.swift in Sources */,
 				CCE1B34D20F3891D004B78B1 /* SourcesViewController.swift in Sources */,
 				CCE1B34B20F3891D004B78B1 /* AppDelegate.swift in Sources */,
 			);
